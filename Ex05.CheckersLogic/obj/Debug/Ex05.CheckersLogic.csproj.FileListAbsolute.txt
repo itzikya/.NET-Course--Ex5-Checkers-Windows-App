@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.CheckersLogic\bin\Debug\Ex05.CheckersLogic.dll
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.CheckersLogic\bin\Debug\Ex05.CheckersLogic.pdb
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.CheckersLogic\obj\Debug\Ex05.CheckersLogic.dll
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.CheckersLogic\obj\Debug\Ex05.CheckersLogic.pdb
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.CheckersLogic\obj\Debug\Ex05.CheckersLogic.csprojResolveAssemblyReference.cache

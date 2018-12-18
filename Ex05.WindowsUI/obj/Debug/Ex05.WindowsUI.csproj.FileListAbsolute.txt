@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\bin\Debug\Ex05.WindowsUI.exe
+c:\users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\bin\Debug\Ex05.WindowsUI.pdb
+c:\users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.exe
+c:\users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.pdb
+c:\users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.GameSettingsForm.resources
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\bin\Debug\Ex05.CheckersLogic.dll
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\bin\Debug\Ex05.CheckersLogic.pdb
+C:\Users\user\documents\visual studio 2015\Projects\B18 Ex05 Itzik 302732029 Roy 204116537\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.Properties.Resources.resources
